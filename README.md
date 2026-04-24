@@ -18,6 +18,6 @@ A Cloud Computing and DevOps learner.<br>Building strong foundation in cloud inf
 ![](https://github-profile-trophy.vercel.app/?username=rohannhere&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
