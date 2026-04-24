@@ -1,6 +1,6 @@
  # <p align="center">👋Hello, Iam Rohan</p>
 
-A Cloud Computing and DevOps learner.<br>Building strong foundation in cloud infrastructure and modern development practices. <br>Currently learning AWS services, Linux administration, Git, and DevOps concepts through consistent practice. <br>Focused on understanding how scalable systems are designed, deployed, and managed.
+A Cloud and DevOps Engineer.<br>Building strong foundation in cloud infrastructure and modern development practices. <br>Currently learning AWS services, Linux administration, Git, and DevOps concepts through consistent practice. <br>Focused on understanding how scalable systems are designed, deployed, and managed.
 
 
 ## 🌐 Socials:
@@ -14,8 +14,6 @@ A Cloud Computing and DevOps learner.<br>Building strong foundation in cloud inf
 ![](https://streak-stats.demolab.com/?user=rohannhere&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohannhere&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rohannhere&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
