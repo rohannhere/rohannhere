@@ -1,6 +1,6 @@
  # <p align="center">👋Hello, Iam Rohan</p>
 
-A Cloud Computing and DevOps learner.<br>building a strong foundation in cloud infrastructure and modern development practices. <br>Currently learning AWS services, Linux administration, Git, and DevOps concepts through consistent practice. <br>Focused on understanding how scalable systems are designed, deployed, and managed.
+A Cloud Computing and DevOps learner.<br>Building strong foundation in cloud infrastructure and modern development practices. <br>Currently learning AWS services, Linux administration, Git, and DevOps concepts through consistent practice. <br>Focused on understanding how scalable systems are designed, deployed, and managed.
 
 
 ## 🌐 Socials:
