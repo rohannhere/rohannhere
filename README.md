@@ -2,11 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VpbHJnMmwyazd0N3F5MHU1c2oyNWxmd2xuMnZvZmVraXI3azU2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
-
-###
-
-<p align="left">A Cloud and DevOps learner.<br>Building strong foundation in cloud infrastructure and modern development practices. Currently learning AWS services, Linux, Git, and DevOps concepts through consistent practice. Focused on understanding how scalable systems are designed, deployed, and managed.</p>
+<p align="left">A Cloud and DevOps learner, Building strong foundation in cloud infrastructure and modern development practices. <br>Currently learning AWS services, Linux, Git, and DevOps concepts through consistent practice. <br>Focused on understanding how scalable systems are designed, deployed, and managed.</p>
 
 ###
 
