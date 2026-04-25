@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">A Cloud and DevOps Engineer.<br>Building strong foundation in cloud infrastructure and modern development practices.Currently learning AWS services, Linux, Git, and DevOps concepts through consistent practice.<br>Focused on understanding how scalable systems are designed, deployed, and managed.</p>
+<p align="left">A Cloud and DevOps Engineer.<br>Building strong foundation in cloud infrastructure and modern development practices.Currently learning AWS services, Linux, Git, and DevOps concepts through consistent practice.Focused on understanding how scalable systems are designed, deployed, and managed.</p>
 
 ###
 
